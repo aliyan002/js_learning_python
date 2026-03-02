@@ -8,3 +8,4 @@ console.log("City: " + typeof city);
 
 name = "Bob"; // Reassigning name variable
 console.log("Updated Name: " + name);
+b="202"
